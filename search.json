@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Open, reproducible digital health studies — end to end",
     "section": "",
-    "text": "momenTUM Research Platform\n\n\nOpen, reproducible digital health studies — end to end\nmomenTUM is an open research platform for designing and deploying mobile studies, collecting ambulatory assessment data, and exploring results through a web-based dashboard.\nIt supports reproducible workflows for researchers and a seamless experience for study participants.\n\n\n\n\n\n\n\n\n\nStudy designer\nDefine and configure studies using a structured, reproducible specification.\n\n\nMobile app\nDeliver study protocols to participants on iOS and Android devices.\n\n\nDashboard\nInspect and explore collected study data via a web-based interface.\n\n\nIntegrations\nDesigned to integrate with external systems such as REDCap.\n\n\n\n\n\nFor participants\nIf you are taking part in a study using the momenTUM platform, install the mobile app and follow the instructions provided by your study team.\n\nGo to Participants →\n\n\n\nFor researchers\nInterested in using momenTUM or collaborating with us? Get in touch to learn more.\n\nContact us →\n\n\n\n\n\n\nFunding\nmomenTUM is supported by the AMBIENT-BD project.\nLearn more →"
+    "text": "momenTUM Research Platform\n\n\nOpen, reproducible digital health studies — end to end\nmomenTUM is an open research platform for designing and deploying mobile studies, collecting ambulatory assessment data, and exploring results through a web-based dashboard.\nIt supports reproducible workflows for researchers and a seamless experience for study participants.\n\n\n\n\n\n\n\n\n\nStudy designer\nDefine and configure studies using a structured, reproducible specification.\n\n\nMobile app\nDeliver study protocols to participants on iOS and Android devices.\n\n\nDashboard\nInspect and explore collected study data via a web-based interface.\n\n\nIntegrations\nDesigned to integrate with external systems such as REDCap.\n\n\n\n\n\nFor participants\nIf you are taking part in a study using the momenTUM platform, install the mobile app and follow the instructions provided by your study team.\n\nGo to Participants →\n\n\n\nFor researchers\nInterested in using momenTUM or collaborating with us? Get in touch to learn more.\n\nContact us →\n\n\n\n\n\n\n\n\nFunding The development of momenTUM is supported by the Wellcome Trust."
   },
   {
     "objectID": "contact.html",
@@ -60,6 +60,6 @@
     "href": "funding.html",
     "title": "Funding",
     "section": "",
-    "text": "momenTUM is supported by the AMBIENT-BD project.\nMore information is available on the\nAMBIENT-BD project website."
+    "text": "The development of momenTUM is supported by funding from the Wellcome Trust."
   }
 ]
