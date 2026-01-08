@@ -1,0 +1,49 @@
+project:
+  type: website
+  resources:
+    - app.html
+
+website:
+  title: "momenTUM Research Platform"
+  favicon: assets/icon.png
+  navbar:
+    logo: assets/icon.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: team.qmd
+        text: Team
+      - href: funding.qmd
+        text: Funding
+      # - href: publications.qmd
+      #   text: Publications
+      - href: participants.qmd
+        text: Participants
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    left: |
+      ```{=html}
+      <div class="footer-block">
+        <img src="assets/tum.png" alt="TUM logo" class="footer-logo">
+        <div class="footer-text">
+          <strong>momenTUM Research Platform</strong><br>
+          Assistant Professorship of Chronobiology &amp; Health<br>
+          Department of Health and Sport Sciences<br>
+          Technical University of Munich<br>
+          TUM Campus im Olympiapark<br>
+          Am Olympiacampus 11<br>
+          80809 München · Germany<br>
+          <a href="mailto:chronobiology@sg.tum.de">chronobiology@sg.tum.de</a>
+        </div>
+      </div>
+      ```
+    center: |
+      © 2026 Technical University of Munich
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false

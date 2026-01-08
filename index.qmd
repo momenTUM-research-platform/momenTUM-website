@@ -1,0 +1,76 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.grid .hero}
+::: {.g-col-12 .g-col-md-7}
+<div class="kicker">momenTUM Research Platform</div>
+
+# Open, reproducible digital health studies — end to end
+
+momenTUM is an open research platform for designing and deploying mobile studies, collecting ambulatory assessment data, and exploring results through a web-based dashboard.  
+It supports reproducible workflows for researchers and a seamless experience for study participants.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+![](assets/momenTUM_splash.png){.hero-illustration}
+:::
+:::
+
+---
+
+::: {.grid .feature-grid}
+::: {.g-col-12 .g-col-md-3 .feature-card}
+### Study designer
+Define and configure studies using a structured, reproducible specification.
+:::
+
+::: {.g-col-12 .g-col-md-3 .feature-card}
+### Mobile app
+Deliver study protocols to participants on iOS and Android devices.
+:::
+
+::: {.g-col-12 .g-col-md-3 .feature-card}
+### Dashboard
+Inspect and explore collected study data via a web-based interface.
+:::
+
+::: {.g-col-12 .g-col-md-3 .feature-card}
+### Integrations
+Designed to integrate with external systems such as REDCap.
+:::
+:::
+
+---
+
+::: {.grid .teaser-grid}
+::: {.g-col-12 .g-col-md-6 .teaser-card}
+### For participants
+If you are taking part in a study using the momenTUM platform, install the mobile app and follow the instructions provided by your study team.
+
+<div class="card-links">
+[Go to Participants →](participants.html)
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-6 .teaser-card}
+### For researchers
+Interested in using momenTUM or collaborating with us? Get in touch to learn more.
+
+<div class="card-links">
+[Contact us →](contact.html)
+</div>
+:::
+:::
+
+---
+
+::: {.grid .note-grid}
+::: {.g-col-12 .note-card}
+**Funding**  
+momenTUM is supported by the AMBIENT-BD project.
+
+[Learn more →](funding.html)
+:::
+:::

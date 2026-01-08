@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open, reproducible digital health studies — end to end",
+    "section": "",
+    "text": "momenTUM Research Platform\n\n\nOpen, reproducible digital health studies — end to end\nmomenTUM is an open research platform for designing and deploying mobile studies, collecting ambulatory assessment data, and exploring results through a web-based dashboard.\nIt supports reproducible workflows for researchers and a seamless experience for study participants.\n\n\n\n\n\n\n\n\n\nStudy designer\nDefine and configure studies using a structured, reproducible specification.\n\n\nMobile app\nDeliver study protocols to participants on iOS and Android devices.\n\n\nDashboard\nInspect and explore collected study data via a web-based interface.\n\n\nIntegrations\nDesigned to integrate with external systems such as REDCap.\n\n\n\n\n\nFor participants\nIf you are taking part in a study using the momenTUM platform, install the mobile app and follow the instructions provided by your study team.\n\nGo to Participants →\n\n\n\nFor researchers\nLearn more about the team behind the platform, its institutional context, and current funding.\n\nTeam → Funding → Contact →\n\n\n\n\n\n\nFunding\nmomenTUM is supported by the AMBIENT-BD project.\nLearn more →"
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "Funding",
+    "section": "",
+    "text": "momenTUM is supported by the AMBIENT-BD project.\nMore information is available on the\nAMBIENT-BD project website."
+  },
+  {
+    "objectID": "funding.html#current-funding",
+    "href": "funding.html#current-funding",
+    "title": "Funding",
+    "section": "",
+    "text": "(TBD)"
+  },
+  {
+    "objectID": "funding.html#past-funding",
+    "href": "funding.html#past-funding",
+    "title": "Funding",
+    "section": "Past funding",
+    "text": "Past funding\n(TBD)"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "The momenTUM Research Platform is developed and maintained at the Technical University of Munich.\n\n\n Prof. Manuel Spitschan\nProject Lead\nTechnical University of Munich\n\n\n Nataliia Petliak\nSoftware Developer\nTechnical University of Munich"
+  },
+  {
+    "objectID": "team.html#core-team",
+    "href": "team.html#core-team",
+    "title": "Team",
+    "section": "",
+    "text": "Prof. Manuel Spitschan — Principal Investigator\nNatalia Petliak — Research Software Engineer"
+  },
+  {
+    "objectID": "team.html#collaborators",
+    "href": "team.html#collaborators",
+    "title": "Team",
+    "section": "Collaborators",
+    "text": "Collaborators\n\n(add as needed)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Assistant Professorship of Chronobiology & Health\nDepartment of Health and Sport Sciences\nTechnical University of Munich (TUM)\nTUM Campus im Olympiapark\nAm Olympiacampus 11\n80809 München\nGermany\nEmail:\nchronobiology@sg.tum.de"
+  },
+  {
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Participants",
+    "section": "",
+    "text": "If you are participating in a study using the momenTUM platform, please install the mobile app on your device:\n\niOS (Apple App Store):\nDownload on the App Store\nAndroid (Google Play Store):\nGet it on Google Play\n\n\n\nA QR code for direct installation will be added here shortly."
+  },
+  {
+    "objectID": "participants.html#install-the-app",
+    "href": "participants.html#install-the-app",
+    "title": "Participants",
+    "section": "",
+    "text": "If you are participating in a study using the momenTUM platform, please install the mobile app on your device:\n\niOS (Apple App Store):\nDownload on the App Store\nAndroid (Google Play Store):\nGet it on Google Play\n\n\n\nA QR code for direct installation will be added here shortly."
+  },
+  {
+    "objectID": "participants.html#during-the-study",
+    "href": "participants.html#during-the-study",
+    "title": "Participants",
+    "section": "During the study",
+    "text": "During the study\nPlease follow the instructions provided by your study team.\nThe app will guide you through questionnaires and tasks according to the study schedule."
+  },
+  {
+    "objectID": "participants.html#questions-or-issues",
+    "href": "participants.html#questions-or-issues",
+    "title": "Participants",
+    "section": "Questions or issues?",
+    "text": "Questions or issues?\nIf you have questions about participation or encounter technical issues, please contact your study team.\nYou may also reach us at:\nchronobiology@sg.tum.de"
+  }
+]

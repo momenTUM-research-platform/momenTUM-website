@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Get the momenTUM app</title>
+
+  <script>
+    const IOS_URL =
+      "https://apps.apple.com/de/app/tum-momentum/id6444047291?l=en-GB";
+    const ANDROID_URL =
+      "https://play.google.com/store/apps/details?id=de.tum.sg.momentum.android";
+    const FALLBACK_URL = "participants.html";
+
+    const ua = navigator.userAgent || "";
+    const isAndroid = /Android/i.test(ua);
+    const isIOS = /iPhone|iPad|iPod/i.test(ua);
+
+    if (isAndroid) {
+      window.location.replace(ANDROID_URL);
+    } else if (isIOS) {
+      window.location.replace(IOS_URL);
+    } else {
+      window.location.replace(FALLBACK_URL);
+    }
+  </script>
+
+  <!-- Safety fallback -->
+  <meta http-equiv="refresh" content="3;url=participants.html" />
+</head>
+<body>
+  <p>
+    Redirecting…  
+    If nothing happens, please visit the
+    <a href="participants.html">Participants page</a>.
+  </p>
+</body>
+</html>
