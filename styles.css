@@ -127,8 +127,8 @@
   .teaser-card,
   .note-card,
   .team-card {
-    border: 1px solid rgba(0, 0, 0, 0.12);
-    border-radius: 18px;
+    /* border: 1px solid rgba(0, 0, 0, 0.12); */
+    border-radius: 20px;
     background: rgba(255, 255, 255, 0.92);
   }
   
@@ -221,14 +221,16 @@
   .team-name {
     font-weight: 650;
     margin: 0;
-    line-height: 1.2;
-    font-size: 1.15rem;
+    margin-bottom: 0;
+    line-height: 0.95;
+    font-size: 1.4rem;
   }
   
   .team-role {
-    margin-top: 0.1rem;
+    margin-top: -0.15rem;
+    line-height: 0;
     opacity: 0.78;
-    font-size: 0.95rem;
+    font-size: 1.15rem;
   }
   
   .team-meta {

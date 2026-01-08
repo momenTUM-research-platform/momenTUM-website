@@ -8,17 +8,13 @@ The momenTUM Research Platform is developed and maintained at the Technical Univ
 ::: {.grid .team-grid}
 ::: {.g-col-12 .g-col-md-6 .team-card}
 ![](assets/team/manuel.png){.team-avatar}
-<span class="team-name">Prof. Manuel Spitschan</span>  
+<span class="team-name">Prof. Dr. Manuel Spitschan</span>  
 <span class="team-role">Project Lead</span>
-
-<span class="team-meta">Technical University of Munich</span>
 :::
 
 ::: {.g-col-12 .g-col-md-6 .team-card}
 ![](assets/team/natalia.png){.team-avatar}
 <span class="team-name">Nataliia Petliak</span>  
-<span class="team-role">Software Developer</span>
-
-<span class="team-meta">Technical University of Munich</span>
+<span class="team-role">Software Engineer</span>
 :::
 :::
