@@ -5,28 +5,26 @@ page-layout: full
 
 ## Install the app
 
-If you are participating in a study using the **momenTUM** platform, please install the mobile app on your device:
+If you are participating in a study using the **momenTUM** platform, install the mobile app on your device:
 
-- **iOS (Apple App Store):**  
-  [Download on the App Store](https://apps.apple.com/de/app/tum-momentum/id6444047291?l=en-GB)
+- [Apple App Store](https://apps.apple.com/de/app/tum-momentum/id6444047291?l=en-GB)
+- [Google Play Store](https://play.google.com/store/apps/details?id=de.tum.sg.momentum.android)
 
-- **Android (Google Play Store):**  
-  [Get it on Google Play](https://play.google.com/store/apps/details?id=de.tum.sg.momentum.android)
-
-### Install via QR code
-*A QR code for direct installation will be added here shortly.*
+<div style="text-align: center; margin-top: 1rem;">
+![](assets/qr-app.png){width=200}
+</div>
 
 ---
 
 ## During the study
 
-Please follow the instructions provided by your study team.  
+Follow the instructions provided by your study team.  
 The app will guide you through questionnaires and tasks according to the study schedule.
 
 ---
 
 ## Questions or issues?
 
-If you have questions about participation or encounter technical issues, please contact your study team.  
-You may also reach us at:  
-[chronobiology@sg.tum.de](mailto:chronobiology@sg.tum.de)
+If you have questions or encounter technical issues, please contact your study team.  
+You may also reach us at  
+[chronobiology@sg.tum.de](mailto:chronobiology@sg.tum.de).

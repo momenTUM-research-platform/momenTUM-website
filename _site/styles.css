@@ -36,7 +36,7 @@
   
   
   /* =========================
-     Home – Hero
+     Home
      ========================= */
   
   .hero {
@@ -162,11 +162,6 @@
   .note-card {
     padding: 1rem 1.15rem;
   }
-  
-  
-  /* =========================
-     Teaser links alignment (bottom of card)
-     ========================= */
   
   .teaser-card {
     display: flex;
