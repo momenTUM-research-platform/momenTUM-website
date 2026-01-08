@@ -152,14 +152,12 @@ ul.task-list li input[type="checkbox"] {
 <p>The momenTUM Research Platform is developed and maintained at the Technical University of Munich.</p>
 <div class="grid team-grid">
 <div class="g-col-12 g-col-md-6 team-card">
-<p><img src="assets/team/manuel.png" class="team-avatar img-fluid"> <span class="team-name">Prof.&nbsp;Manuel Spitschan</span><br>
+<p><img src="assets/team/manuel.png" class="team-avatar img-fluid"> <span class="team-name">Prof.&nbsp;Dr.&nbsp;Manuel Spitschan</span><br>
 <span class="team-role">Project Lead</span></p>
-<p><span class="team-meta">Technical University of Munich</span></p>
 </div>
 <div class="g-col-12 g-col-md-6 team-card">
 <p><img src="assets/team/natalia.png" class="team-avatar img-fluid"> <span class="team-name">Nataliia Petliak</span><br>
-<span class="team-role">Software Developer</span></p>
-<p><span class="team-meta">Technical University of Munich</span></p>
+<span class="team-role">Software Engineer</span></p>
 </div>
 </div>
 
@@ -239,7 +237,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/momenTUM-research-platform\.github\.io\/momenTUM-website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
