@@ -13,8 +13,8 @@ website:
         text: Home
       - href: team.qmd
         text: Team
-      - href: funding.qmd
-        text: Funding
+      # - href: funding.qmd
+      #   text: Funding
       # - href: publications.qmd
       #   text: Publications
       - href: participants.qmd

@@ -68,9 +68,22 @@ Interested in using momenTUM or collaborating with us? Get in touch to learn mor
 
 ::: {.grid .note-grid}
 ::: {.g-col-12 .note-card}
-**Funding**  
-momenTUM is supported by the AMBIENT-BD project.
 
-[Learn more →](funding.html)
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+
+<div>
+<strong>Funding</strong><br>
+The development of momenTUM is supported by the
+[**Wellcome Trust**](https://wellcome.org).
+</div>
+
+<a href="https://wellcome.org" aria-label="Wellcome Trust">
+<img src="assets/wellcome-trust.png"
+     alt="Wellcome Trust logo"
+     style="height: 88px; width: auto;">
+</a>
+
+</div>
+
 :::
 :::

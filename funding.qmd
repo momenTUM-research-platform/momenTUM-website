@@ -3,7 +3,9 @@ title: Funding
 page-layout: full
 ---
 
-momenTUM is supported by the **AMBIENT-BD** project.
+The development of momenTUM is supported by funding from the
+[**Wellcome Trust**](https://wellcome.org).
 
-More information is available on the  
-[AMBIENT-BD project website](https://www.ambientbd.com/).
+<div style="text-align: center; margin-top: 1rem;">
+[![](assets/wellcome-trust.png){width=220}](https://wellcome.org)
+</div>
