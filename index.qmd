@@ -87,3 +87,14 @@ The development of momenTUM is supported by the
 
 :::
 :::
+
+---
+
+::: {.grid .note-grid}
+::: {.g-col-12 .note-card}
+<strong>Collaboration</strong><br>
+The momenTUM platform is currently in production and in use in the
+[AMBIENT-BD study](https://www.ambientbd.com/) at the
+[University of Edinburgh](https://www.ed.ac.uk).
+:::
+:::
