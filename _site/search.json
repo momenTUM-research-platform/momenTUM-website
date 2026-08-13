@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "Funding",
+    "section": "",
+    "text": "The development of momenTUM is supported by funding from the Wellcome Trust."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "The momenTUM Research Platform is developed and maintained at the Technical University of Munich.\n\n\n Prof. Dr. Manuel Spitschan\nProject Lead\n\n\n Nataliia Petliak\nSoftware Engineer"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Assistant Professorship of Chronobiology & Health\nDepartment of Health and Sport Sciences\nTechnical University of Munich (TUM)\nTUM Campus im Olympiapark\nAm Olympiacampus 11\n80809 München\nGermany\nEmail:\nchronobiology@sg.tum.de"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open, reproducible digital health studies — end to end",
+    "section": "",
+    "text": "momenTUM Research Platform\n\n\nOpen, reproducible digital health studies — end to end\nmomenTUM is an open research platform for designing and deploying mobile studies, collecting ambulatory assessment data, and exploring results through a web-based dashboard.\nIt supports reproducible workflows for researchers and a seamless experience for study participants.\n\n\n\n\n\n\n\n\n\nStudy designer\nDefine and configure studies using a structured, reproducible specification.\n\n\nMobile app\nDeliver study protocols to participants on iOS and Android devices.\n\n\nDashboard\nInspect and explore collected study data via a web-based interface.\n\n\nIntegrations\nDesigned to integrate with external systems such as REDCap.\n\n\n\n\n\nFor participants\nIf you are taking part in a study using the momenTUM platform, install the mobile app and follow the instructions provided by your study team.\n\nGo to Participants →\n\n\n\nFor researchers\nInterested in using momenTUM or collaborating with us? Get in touch to learn more.\n\nContact us →\n\n\n\n\n\n\n\n\nFunding The development of momenTUM is supported by the Wellcome Trust.\n\n  \n\n\n\n\n\n\nCollaboration The momenTUM platform is currently in production and in use in the AMBIENT-BD study at the University of Edinburgh."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "participants.html",
     "href": "participants.html",
     "title": "Participants",
@@ -28,38 +63,73 @@
     "text": "Questions or issues?\nIf you have questions or encounter technical issues, please contact your study team.\nYou may also reach us at\nchronobiology@sg.tum.de."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy Policy",
     "section": "",
-    "text": "About this site"
+    "text": "Data protection is an important concern for the Technical University of Munich. We would like you to know when we store data, what data we store and how we use it.\nOn this website/app, personal data is only collected to the extent that is technically necessary or as part of a specific study protocol which has been reviewed by the Ethics Committee of the Technical University of Munich. Personal data is only collected once you register or log in.\nData processing is subject to the applicable data protection regulations, in particular the General Data Protection Regulation (GDPR), the Bayerisches Datenschutzgesetz [Bavarian Data Protection Act] (BayDSG) and the German Telemedia Act (TMG).\nIn the following, we would like to explain the type, scope and purpose of the collection and use of personal data. This information is available on our website at any time."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Open, reproducible digital health studies — end to end",
-    "section": "",
-    "text": "momenTUM Research Platform\n\n\nOpen, reproducible digital health studies — end to end\nmomenTUM is an open research platform for designing and deploying mobile studies, collecting ambulatory assessment data, and exploring results through a web-based dashboard.\nIt supports reproducible workflows for researchers and a seamless experience for study participants.\n\n\n\n\n\n\n\n\n\nStudy designer\nDefine and configure studies using a structured, reproducible specification.\n\n\nMobile app\nDeliver study protocols to participants on iOS and Android devices.\n\n\nDashboard\nInspect and explore collected study data via a web-based interface.\n\n\nIntegrations\nDesigned to integrate with external systems such as REDCap.\n\n\n\n\n\nFor participants\nIf you are taking part in a study using the momenTUM platform, install the mobile app and follow the instructions provided by your study team.\n\nGo to Participants →\n\n\n\nFor researchers\nInterested in using momenTUM or collaborating with us? Get in touch to learn more.\n\nContact us →\n\n\n\n\n\n\n\n\nFunding The development of momenTUM is supported by the Wellcome Trust.\n\n  \n\n\n\n\n\n\nCollaboration The momenTUM platform is currently in production and in use in the AMBIENT-BD study at the University of Edinburgh."
+    "objectID": "privacy.html#responsible-body",
+    "href": "privacy.html#responsible-body",
+    "title": "Privacy Policy",
+    "section": "Responsible body",
+    "text": "Responsible body\nThe responsible body as defined by current data protection laws is:\nTechnical University of Munich\nArcisstraße 21\n80333 Munich\nGermany\nTelephone: +49 89 289-01\nFax: +49 89 289-22000\nEmail: poststelle@tum.de"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Assistant Professorship of Chronobiology & Health\nDepartment of Health and Sport Sciences\nTechnical University of Munich (TUM)\nTUM Campus im Olympiapark\nAm Olympiacampus 11\n80809 München\nGermany\nEmail:\nchronobiology@sg.tum.de"
+    "objectID": "privacy.html#data-protection-officer",
+    "href": "privacy.html#data-protection-officer",
+    "title": "Privacy Policy",
+    "section": "Data Protection Officer",
+    "text": "Data Protection Officer\nThe Data Protection Officer at the Technical University of Munich is:\nProf. Dr. Uwe Baumgarten\nArcisstraße 21\n80333 Munich\nGermany\nTelephone: +49 89 289-17052\nEmail: beauftragter@datenschutz.tum.de\nFor further contact details, please visit www.datenschutz.tum.de."
   },
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "The momenTUM Research Platform is developed and maintained at the Technical University of Munich.\n\n\n Prof. Dr. Manuel Spitschan\nProject Lead\n\n\n Nataliia Petliak\nSoftware Engineer"
+    "objectID": "privacy.html#app-developer-team",
+    "href": "privacy.html#app-developer-team",
+    "title": "Privacy Policy",
+    "section": "App developer team",
+    "text": "App developer team\nProf. Dr. Manuel Spitschan\nProfessorship for Chronobiology & Health\nDepartment Health and Sport Sciences\nTUM Campus im Olympiapark\nAm Olympiacampus 11\n80809 München\nGermany\nTelephone: +49 89 289-24544\nEmail: manuel.spitschan@tum.de"
   },
   {
-    "objectID": "funding.html",
-    "href": "funding.html",
-    "title": "Funding",
-    "section": "",
-    "text": "The development of momenTUM is supported by funding from the Wellcome Trust."
+    "objectID": "privacy.html#purposes-of-data-processing",
+    "href": "privacy.html#purposes-of-data-processing",
+    "title": "Privacy Policy",
+    "section": "Purposes of data processing",
+    "text": "Purposes of data processing\nThe data will be collected for implementation of specific research projects on the momenTUM platform. The research projects will have undergone ethical review by the Ethics Committee of the Technical University of Munich and will ask you for your consent."
+  },
+  {
+    "objectID": "privacy.html#legal-basis-of-data-processing",
+    "href": "privacy.html#legal-basis-of-data-processing",
+    "title": "Privacy Policy",
+    "section": "Legal basis of data processing",
+    "text": "Legal basis of data processing\nThe legal basis for the processing of your data for research purposes is your consent in accordance with Art. 6 para. 1 letter a and/or Art. 9 para. 2 letter a GDPR.\nThe mandatory requirements of the German Fiscal Code form the legal basis for the processing of your data for accounting purposes."
+  },
+  {
+    "objectID": "privacy.html#recipients-or-categories-of-recipients",
+    "href": "privacy.html#recipients-or-categories-of-recipients",
+    "title": "Privacy Policy",
+    "section": "Recipients or categories of recipients",
+    "text": "Recipients or categories of recipients\nThe data will be transmitted as described in the study description for a specific study."
+  },
+  {
+    "objectID": "privacy.html#storage-duration",
+    "href": "privacy.html#storage-duration",
+    "title": "Privacy Policy",
+    "section": "Storage duration",
+    "text": "Storage duration\nThe data for research purposes will be stored for the duration stated in the study description.\nResearch data must be stored for at least 10 years for reasons of good scientific practice of the German Research Foundation.\nThe data for accounting purposes will be kept for 10 years."
+  },
+  {
+    "objectID": "privacy.html#your-rights",
+    "href": "privacy.html#your-rights",
+    "title": "Privacy Policy",
+    "section": "Your rights",
+    "text": "Your rights\nYou are not obliged to provide your data.\nAt any time and without negative consequences, you may revoke your consent to the storage of your contact data with effect for the future.\nYou may also revoke your consent to the use of your research data at any time, without stating reasons and without negative consequences for you for the future, and you may request the deletion of research data. We will comply with your request for deletion in accordance with the statutory requirements.\nIn the case of revocation, if permitted by the statutory requirements, you can decide whether your data and biomaterials should be destroyed or may be used for other scientific purposes without the possibility of attribution to your name or contact data.\nIn this case, we would delete the identification code from which it is possible to determine the person from whom the data or samples originate.\nPlease note that your research data can no longer be attributed to you personally after deletion of the code number from the contact data. If you revoke consent to the storage of your contact data, attribution of the study data will no longer be possible.\nYour data cannot be removed from analyses already performed.\nTo the extent permitted by law, you still have the right to obtain information about the personal data held by us and its disclosure to third parties, and you have the right to correction, erasure or restriction of the processing of personal data relating to you.\nYou also have the right to contact the regulatory authority for data protection.\nThe authority responsible is:\nBavarian State Office for Data Protection Supervision\nBayerisches Landesamt für Datenschutzaufsicht\nPostfach 606\n91511 Ansbach\nGermany"
+  },
+  {
+    "objectID": "privacy.html#study-contact",
+    "href": "privacy.html#study-contact",
+    "title": "Privacy Policy",
+    "section": "Study contact",
+    "text": "Study contact\nYou can give notice of changes to your contact data here. You can also clarify questions about participation, object to your participation in any research studies for the future, and assert rights to erasure, revocation and information with:\nProf. Dr. Manuel Spitschan\nProfessorship for Chronobiology & Health\nDepartment Health and Sport Sciences\nTUM Campus im Olympiapark\nAm Olympiacampus 11\n80809 München\nGermany\nTelephone: +49 89 289-24544\nEmail: manuel.spitschan@tum.de"
   }
 ]

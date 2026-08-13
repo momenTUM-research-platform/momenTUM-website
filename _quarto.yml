@@ -22,6 +22,8 @@ website:
         text: Participants
       - href: contact.qmd
         text: Contact
+      - href: privacy.qmd
+        text: Privacy
 
   page-footer:
     left: |

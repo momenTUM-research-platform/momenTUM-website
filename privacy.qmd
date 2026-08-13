@@ -1,0 +1,118 @@
+---
+title: "Privacy Policy"
+format: html
+---
+
+
+Data protection is an important concern for the Technical University of Munich. We would like you to know when we store data, what data we store and how we use it.
+
+On this website/app, personal data is only collected to the extent that is technically necessary or as part of a specific study protocol which has been reviewed by the Ethics Committee of the Technical University of Munich. Personal data is only collected once you register or log in.
+
+Data processing is subject to the applicable data protection regulations, in particular the General Data Protection Regulation (GDPR), the Bayerisches Datenschutzgesetz [Bavarian Data Protection Act] (BayDSG) and the German Telemedia Act (TMG).
+
+In the following, we would like to explain the type, scope and purpose of the collection and use of personal data. This information is available on our website at any time.
+
+## Responsible body
+
+The responsible body as defined by current data protection laws is:
+
+**Technical University of Munich**  
+Arcisstraße 21  
+80333 Munich  
+Germany  
+
+Telephone: +49 89 289-01  
+Fax: +49 89 289-22000  
+Email: [poststelle@tum.de](mailto:poststelle@tum.de)
+
+## Data Protection Officer
+
+The Data Protection Officer at the Technical University of Munich is:
+
+**Prof. Dr. Uwe Baumgarten**  
+Arcisstraße 21  
+80333 Munich  
+Germany  
+
+Telephone: +49 89 289-17052  
+Email: [beauftragter@datenschutz.tum.de](mailto:beauftragter@datenschutz.tum.de)
+
+For further contact details, please visit [www.datenschutz.tum.de](https://www.datenschutz.tum.de).
+
+## App developer team
+
+**Prof. Dr. Manuel Spitschan**  
+Professorship for Chronobiology & Health  
+Department Health and Sport Sciences  
+TUM Campus im Olympiapark  
+Am Olympiacampus 11  
+80809 München  
+Germany  
+
+Telephone: +49 89 289-24544  
+Email: [manuel.spitschan@tum.de](mailto:manuel.spitschan@tum.de)
+
+## Purposes of data processing
+
+The data will be collected for implementation of specific research projects on the momenTUM platform. The research projects will have undergone ethical review by the Ethics Committee of the Technical University of Munich and will ask you for your consent.
+
+## Legal basis of data processing
+
+The legal basis for the processing of your data for research purposes is your consent in accordance with Art. 6 para. 1 letter a and/or Art. 9 para. 2 letter a GDPR.
+
+The mandatory requirements of the German Fiscal Code form the legal basis for the processing of your data for accounting purposes.
+
+## Recipients or categories of recipients
+
+The data will be transmitted as described in the study description for a specific study.
+
+## Storage duration
+
+The data for research purposes will be stored for the duration stated in the study description.
+
+Research data must be stored for at least 10 years for reasons of good scientific practice of the German Research Foundation.
+
+The data for accounting purposes will be kept for 10 years.
+
+## Your rights
+
+You are not obliged to provide your data.
+
+At any time and without negative consequences, you may revoke your consent to the storage of your contact data with effect for the future.
+
+You may also revoke your consent to the use of your research data at any time, without stating reasons and without negative consequences for you for the future, and you may request the deletion of research data. We will comply with your request for deletion in accordance with the statutory requirements.
+
+In the case of revocation, if permitted by the statutory requirements, you can decide whether your data and biomaterials should be destroyed or may be used for other scientific purposes without the possibility of attribution to your name or contact data.
+
+In this case, we would delete the identification code from which it is possible to determine the person from whom the data or samples originate.
+
+Please note that your research data can no longer be attributed to you personally after deletion of the code number from the contact data. If you revoke consent to the storage of your contact data, attribution of the study data will no longer be possible.
+
+Your data cannot be removed from analyses already performed.
+
+To the extent permitted by law, you still have the right to obtain information about the personal data held by us and its disclosure to third parties, and you have the right to correction, erasure or restriction of the processing of personal data relating to you.
+
+You also have the right to contact the regulatory authority for data protection.
+
+The authority responsible is:
+
+**Bavarian State Office for Data Protection Supervision**  
+Bayerisches Landesamt für Datenschutzaufsicht  
+Postfach 606  
+91511 Ansbach  
+Germany
+
+## Study contact
+
+You can give notice of changes to your contact data here. You can also clarify questions about participation, object to your participation in any research studies for the future, and assert rights to erasure, revocation and information with:
+
+**Prof. Dr. Manuel Spitschan**  
+Professorship for Chronobiology & Health  
+Department Health and Sport Sciences  
+TUM Campus im Olympiapark  
+Am Olympiacampus 11  
+80809 München  
+Germany  
+
+Telephone: +49 89 289-24544  
+Email: [manuel.spitschan@tum.de](mailto:manuel.spitschan@tum.de)
