@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://momenTUM-research-platform.github.io/momenTUM-website/participants.html</loc>
-    <lastmod>2026-01-08T17:29:30.394Z</lastmod>
+    <loc>https://momentumresearch.eu/privacy.html</loc>
+    <lastmod>2026-08-13T11:07:34.653Z</lastmod>
   </url>
   <url>
-    <loc>https://momenTUM-research-platform.github.io/momenTUM-website/about.html</loc>
-    <lastmod>2026-01-08T15:57:37.589Z</lastmod>
+    <loc>https://momentumresearch.eu/funding.html</loc>
+    <lastmod>2026-01-08T18:27:12.224Z</lastmod>
   </url>
   <url>
-    <loc>https://momenTUM-research-platform.github.io/momenTUM-website/index.html</loc>
-    <lastmod>2026-01-09T12:31:31.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://momenTUM-research-platform.github.io/momenTUM-website/contact.html</loc>
-    <lastmod>2026-01-08T15:57:37.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://momenTUM-research-platform.github.io/momenTUM-website/team.html</loc>
-    <lastmod>2026-01-08T17:38:41.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://momenTUM-research-platform.github.io/momenTUM-website/publications.html</loc>
+    <loc>https://momentumresearch.eu/publications.html</loc>
     <lastmod>2026-01-08T15:57:37.608Z</lastmod>
   </url>
   <url>
-    <loc>https://momenTUM-research-platform.github.io/momenTUM-website/funding.html</loc>
-    <lastmod>2026-01-08T18:27:12.224Z</lastmod>
+    <loc>https://momentumresearch.eu/team.html</loc>
+    <lastmod>2026-01-08T17:38:41.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://momentumresearch.eu/contact.html</loc>
+    <lastmod>2026-01-08T15:57:37.597Z</lastmod>
+  </url>
+  <url>
+    <loc>https://momentumresearch.eu/index.html</loc>
+    <lastmod>2026-01-09T12:31:31.649Z</lastmod>
+  </url>
+  <url>
+    <loc>https://momentumresearch.eu/about.html</loc>
+    <lastmod>2026-01-08T15:57:37.589Z</lastmod>
+  </url>
+  <url>
+    <loc>https://momentumresearch.eu/participants.html</loc>
+    <lastmod>2026-01-08T17:29:30.394Z</lastmod>
   </url>
 </urlset>
